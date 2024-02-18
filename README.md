@@ -7,6 +7,13 @@ This Bash script automates scanning of single or multiple IP addresses using NMa
 ### Prerequisites
 - Ensure you have NMap installed on your system.
 - Make sure `xmlstarlet` and `xsltproc` are installed.
+  
+```bash
+# Prerequisite Application
+sudo apt install nmap
+sudo apt-get install xsltproc
+sudo apt install xmlstarlet
+```
 
 ### Clone the Repository
 
